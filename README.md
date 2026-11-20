@@ -56,19 +56,31 @@ Os arquivos seguem o padrão `PI<n>_<Tipo>` (ex.: `PI5_Relatorio.pdf`, `PI6_Guia
 ## Evidências por PI
 
 ### PI1 — Compreensão do Negócio
+
+💻 Repositório: [github.com/MayKobayashi/PI1-Easy-Cooking](https://github.com/MayKobayashi/PI1-Easy-Cooking)
+
 - `PI1_Relatorio.pdf`: relatório final do projeto
 - `PI1_Pitch_Deck.pdf`: proposta de valor
 - `PI1_Apresentacao.pdf`: apresentação do semestre
 
 ### PI2 — Visualização de Dados
+
+💻 Repositório: [github.com/MayKobayashi/PI2-Easy-Cooking-Dashboards](https://github.com/MayKobayashi/PI2-Easy-Cooking-Dashboards)
+
 - `PI2_Relatorio.pdf`: relatório com dashboards e análises
 - `PI2_Apresentacao.pdf`: apresentação final
 
 ### PI3 — Análise de Dados I
+
+💻 Repositório: [github.com/MayKobayashi/PI3-Automacao-PGA-RAA](https://github.com/MayKobayashi/PI3-Automacao-PGA-RAA)
+
 - `PI3_Relatorio.pdf`: análise PGA × RAA 2024 da Fatec Votorantim e proposta de ETL
 - `PI3_Apresentacao.pdf`: apresentação dos resultados
 
 ### PI4 — Análise de Dados II
+
+💻 Repositório: [github.com/MayKobayashi/PI4-Violencia-Mulher-DDM](https://github.com/MayKobayashi/PI4-Violencia-Mulher-DDM)
+
 - `PI4_Relatorio.pdf`: relatório técnico
 - `PI4_Apresentacao.pdf`: apresentação dos resultados
 - `PI4_Guia_de_Uso.pdf`: manual do dashboard para gestores
@@ -77,6 +89,9 @@ Os arquivos seguem o padrão `PI<n>_<Tipo>` (ex.: `PI5_Relatorio.pdf`, `PI6_Guia
 - `scripts/`: `PI4_script_ddm.py` e `PI4_script_produtividade.py`
 
 ### PI5 — Projetos em Ciência de Dados I
+
+💻 Repositório: [github.com/MayKobayashi/PI5-Hotspots-Violencia](https://github.com/MayKobayashi/PI5-Hotspots-Violencia)
+
 - `PI5_Kick_off.pdf`: apresentação de kick-off
 - `PI5_Relatorio.pdf`: relatório técnico-científico
 - `PI5_Apresentacao.pdf`: slides da defesa
@@ -89,15 +104,15 @@ O formulário inicial, as atas de reunião e o termo de cooperação institucion
 🌐 App: [pifatec.useconectai.com.br](https://pifatec.useconectai.com.br/)
 
 ### PI6 — Projetos em Ciência de Dados II
+
+💻 Repositório: [github.com/MayKobayashi/PI6-Classificacao-Violencia](https://github.com/MayKobayashi/PI6-Classificacao-Violencia)
+
 - `PI6_Relatorio.pdf`: relatório final
 - `PI6_Apresentacao.pdf`: slides da banca
 - `PI6_Guia_de_Uso.pdf`: manual do aplicativo
 - `PI6_Deploy_Guide.pdf`: implantação no Databricks
 - `PI6_01` a `PI6_06`: figuras do relatório (pipeline no Databricks)
 - `PI6_07` a `PI6_10`: telas do aplicativo no Databricks Apps
-- `PI6_LEIA-ME.txt`: origem e data de cada imagem
-
-💻 Código: [github.com/MayKobayashi/PI6-Classificacao-Violencia](https://github.com/MayKobayashi/PI6-Classificacao-Violencia)
 
 ---
 

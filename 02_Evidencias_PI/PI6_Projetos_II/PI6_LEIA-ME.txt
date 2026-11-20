@@ -1,8 +1,0 @@
-Evidências visuais do PI6 — versão final (execução de 15/10/2026, base congelada em 08/10/2026)
-
-PI6_01 a PI6_06: figuras do Relatório PI6 Grupo C v4 (17/10/2026), geradas pelo pipeline no Databricks.
-PI6_07 a PI6_10: telas do aplicativo pi6-zonas (Databricks Apps), do Guia de Uso v3 (17/10/2026).
-
-A pasta _versao_setembro_2026_obsoleta guarda as imagens de 21/09/2026, de antes da
-conferência manual dos bairros, do leave-one-out e do teste de permutação. Os números
-delas não valem mais (ex.: Random Forest 66,67% com 3 zonas de teste).
