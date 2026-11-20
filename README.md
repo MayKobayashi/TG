@@ -33,7 +33,6 @@ TG/
 │   └── PI6_Projetos_II/         ← Classificação histórica por zona: relatório, guias e figuras
 ├── 03_Projetos_Extras/
 │   └── certificados/            ← cursos e eventos de 2024 em diante
-├── 04_Apresentacao_Banca/       ← slides da defesa
 └── Manual_TG_CDN_v1-3_revisada.pdf  ← manual do TG do curso
 ```
 
