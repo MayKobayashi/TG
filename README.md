@@ -31,7 +31,8 @@ TG/
 │   ├── PI4_Analise_II/          ← Violência contra a mulher (DDM): relatório, guia e scripts
 │   ├── PI5_Projetos_I/          ← Hotspots preditivos (DDM): relatório, guias e figuras
 │   └── PI6_Projetos_II/         ← Classificação histórica por zona: relatório, guias e figuras
-├── 03_Projetos_Extras/          ← certificados, artigos, projetos pessoais
+├── 03_Projetos_Extras/
+│   └── certificados/            ← cursos e eventos de 2024 em diante
 ├── 04_Apresentacao_Banca/       ← slides da defesa
 └── Manual_TG_CDN_v1-3_revisada.pdf  ← manual do TG do curso
 ```
@@ -113,6 +114,36 @@ O formulário inicial, as atas de reunião e o termo de cooperação institucion
 - `PI6_Deploy_Guide.pdf`: implantação no Databricks
 - `PI6_01` a `PI6_06`: figuras do relatório (pipeline no Databricks)
 - `PI6_07` a `PI6_10`: telas do aplicativo no Databricks Apps
+
+---
+
+## Formação Complementar e Projetos Extras
+
+### Certificados
+
+Em [`03_Projetos_Extras/certificados/`](03_Projetos_Extras/certificados/), nomeados por `ano-mês - instituição - curso`:
+
+| Data | Instituição | Curso / evento |
+|------|-------------|----------------|
+| 2025-05 | Udemy | Yellow Belt Lean Seis Sigma: Fundamentos Essenciais (4h) |
+| 2025-08 | Prefeitura de Tapiraí e Agência Inova | Hackathon Tapiraí (50h) |
+| 2025-10 | Aspire Institute | Aspire Leaders Program (40h) e carta de reconhecimento |
+| 2025-12 | DIO | Módulo IA e Arquitetura de Dados (9h) |
+| 2025-12 | DIO e Microsoft | Aceleração IA e Arquitetura de Dados (6h) |
+| 2025-12 | DIO | Mentoria Arquitetura Unificada de Dados com Microsoft Fabric e Power BI (2h) |
+| 2026-04 | USP ESALQ | Introdução ao Machine Learning com Python |
+| 2026-05 | Stanford University | Code in Place (Python) |
+| 2026-05 | Fatec | Comunicação Oral no I Simpósio de Ciência de Dados das Fatecs |
+| 2026-06 | PycodeBR | Imersão IA Builders: Workflow de Desenvolvimento com IA Assistida (6h) |
+| 2026-08 | Aspire Institute | Leadership Accelerator Powered by AI (LAPA) |
+| 2026-09 | USP ESALQ | Liderança 5.0: IA e Habilidades Humanas na Gestão de Equipes |
+
+### Projetos pessoais
+
+- 💻 [radar-de-vagas](https://github.com/MayKobayashi/radar-de-vagas): agente agendado com Claude que busca vagas, avalia a aderência ao perfil e envia um resumo com currículo adaptado
+- 💻 [transcricao-de-aulas](https://github.com/MayKobayashi/transcricao-de-aulas): gravação, transcrição local com whisper.cpp e resumo de aulas com IA
+- 🌐 [Além do Dataset](https://alemdodataset.com.br): canal de divulgação sobre dados e tecnologia
+- 🌐 [Portfólio pessoal](https://maykobayashi.github.io)
 
 ---
 
