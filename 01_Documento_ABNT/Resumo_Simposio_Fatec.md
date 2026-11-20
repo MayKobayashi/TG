@@ -1,0 +1,17 @@
+# Resumo Expandido para o Simpósio da Fatec
+
+**TÍTULO DO TRABALHO:**
+DA ESTRATÉGIA AO IMPACTO: JORNADA DE CIÊNCIA DE DADOS ORIENTADA A VALOR SOCIAL E NEGÓCIOS
+*(15 palavras)*
+
+**Autor(a) principal:** Resende, S. M. I. K. (Fatec Votorantim - FTV) - stefanie.resende@fatec.sp.gov.br
+**Co-autor(es):** *(Adicione outros se houver)*
+**Orientador:** Pereira Junior, H. R. J. (Fatec Votorantim - FTV) - helio.pereira@fatec.sp.gov.br
+
+**Tema:** 5 - Análise de Dados e Inteligência Artificial
+
+**Resumo Expandido:**
+
+O profissional de Ciência de Dados precisa ir além do domínio técnico de algoritmos e ferramentas, compreendendo também a lógica de valor por trás de cada análise. Partindo dessa premissa, o Curso de Ciência de Dados para Negócios da Fatec propõe, como trabalho de conclusão, a elaboração de um Portfólio Integrador. O presente trabalho tem como objetivo relatar e analisar criticamente o desenvolvimento das competências técnicas e de negócios da autora ao longo da graduação, evidenciando como os conceitos acadêmicos foram aplicados na prática para gerar impactos sociais e operacionais diretos. A metodologia adotada constitui-se no próprio modelo de Portfólio Integrador, que se baseia na documentação, curadoria e análise reflexiva de cinco Projetos Integradores (PIs) desenvolvidos em diferentes estágios do curso. Em cada um deles, realizou-se o detalhamento do problema abordado, das tecnologias aplicadas para a solução e dos aprendizados obtidos. Inicialmente, os projetos concentraram-se na compreensão estratégica corporativa, utilizando ferramentas ágeis de design de produto e estruturação do negócio. Posteriormente, a jornada avançou para a criação de painéis visuais interativos para tomada de decisão e para a automação da rotina de análise de dados não estruturados de instituições de ensino. O principal marco de amadurecimento técnico documentado ocorreu com a elaboração de um pipeline de Extração, Transformação e Carga (ETL) operando em nuvem, por meio das linguagens Python e do ambiente BigQuery. Nesse projeto em específico, foram cruzadas e tratadas múltiplas bases de dados abertas de segurança pública para mapear casos de violência contra a mulher na região das cidades de Sorocaba e Votorantim. Esse esforço culminou em um dashboard focado em apoiar o trabalho prático de gestores de dados sobre ocorrências sociais sensíveis. Na sequência e nas etapas finais do curso, o foco de estudo deslocou-se para as técnicas avançadas de Machine Learning, focadas nas necessidades práticas de companhias parceiras. Os resultados obtidos por meio da estruturação deste portfólio demonstram a evolução de uma visão puramente executora de tarefas técnicas para o perfil de uma analista focada na geração de valor real e solucionadora de problemas. Através dele, foi possível atestar o nível de aderência da metodologia de ensino da Fatec ao mercado: constata-se que a base teórica e prática experimentada no ambiente acadêmico permitiram que a autora aplicasse essas mesmas lógicas para auxiliar na estruturação e liderança, partindo do zero, do departamento analítico em uma startup tecnológica. Conclui-se que a obra documenta não apenas linhas de códigos aplicados, mas comprova que a formação superior na instituição fornece estrutura para que os estudantes ajam ativamente na esfera profissional e perante os problemas reais da sociedade como verdadeiros parceiros estratégicos e éticos na cultura orientada por dados.
+
+**Palavras-chave:** Ciência de Dados; Portfólio Integrador; Valor de Negócios; Pipeline de Dados.
