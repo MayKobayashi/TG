@@ -7,3 +7,6 @@ __pycache__/
 
 # Documentos assinados do PI5 (CPF, RG, telefones e e-mails pessoais): ficam só no computador
 02_Evidencias_PI/PI5_Projetos_I/*assinad*.pdf
+
+# Instruções locais para assistentes de IA
+AGENTS.md
